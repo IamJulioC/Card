@@ -58,6 +58,7 @@ body{
     background: none;
     border: none;
     color: #87cc8b;
+    text-transform: uppercase;
     transition: .3s ease-in;
     padding: 5px;
 }
