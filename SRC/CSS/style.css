@@ -48,6 +48,9 @@ body{
 .bottomText{
     color: #663f72;
     margin-bottom: 15px;
+    border: 2px solid #451952;
+    border-radius: 30px;
+    padding: 12px;
 }
 
 .actionsCard{
@@ -67,4 +70,5 @@ body{
 .actions:hover{
     background-color: #451952;
     border-radius: 5px;
+    cursor: pointer;
 }
